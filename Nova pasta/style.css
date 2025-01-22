@@ -57,6 +57,7 @@ button{
     justify-content: center;
     border: none;
     background-color: #366AFF;
+    padding-right: 2px;
 }
 .pizza{
     height: 10vh;
@@ -75,4 +76,11 @@ button{
 .pizza:hover a{
     background-color: #366AFF;
     color: white;
+    height: 8vh;
+    width: 11vh;
+}
+#texto{
+    font-family:"Poppins", "serif" ;
+    justify-content: center;
+    align-items: center;
 }
